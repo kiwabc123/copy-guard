@@ -1,5 +1,5 @@
 {
-  "name": "@kiwabc123/copy-guard",
+  "name": "@kqjq/copy-guard",
   "version": "1.0.0",
   "description": "React component that prepends a prefix when user copies text",
   "keywords": ["react", "clipboard", "copy", "guard"],
